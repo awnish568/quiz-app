@@ -1,8 +1,8 @@
 export const QuizData = [
     {
-        question: "Which language runs in a web browser?",
-        options:[ "Java", "C", "Python", "JavaScript"],
-        answer: 4
+        question: "In the context of CSS, what is the purpose of the z-index property?",
+        options:[ "Specifying the width of an element", "Controlling the stacking order of positioned elements", "Setting the transparency of an element", "Defining the font size of text within an element"],
+        answer: 2
     },
     {
         question: "What does CSS stand for?",
@@ -10,13 +10,13 @@ export const QuizData = [
         answer: 2
     },
     {
-        question: "What does HTML stand for?",
-        options: ["Hypertext Markup Language", "Hypertext Markdown Language", "Hyperloop Machine Language", "Helicopters Terminals Motorboats Lamborginis"],
-        answer: 1
+        question: "Which of the following is NOT a valid HTTP status code?",
+        options: ["200 OK", "404 Not Found", "500 Server Error", "600 Invalid Request"],
+        answer: 4
     },
     {
-        question: "What year was JavaScript launched?",
-        options: ["1996", "1995", "1994", "none of the above"],
+        question: "WWhich of the following statements about RESTful APIs is false?",
+        options: ["REST stands for Representational State Transfer", "RESTful APIs can only use JSON as the data format", "RESTful APIs are stateless", "RESTful APIs can be easily cached"],
         answer:2
     },
 ];
